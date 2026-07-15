@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Cybrense-IT-Services/.github/security/policy
+    about: Report sensitive security issues privately. Do not open a public issue.
+  - name: Cybrense IT Services
+    url: https://cybrense.com/
+    about: Consulting, implementation, and business enquiries.
